@@ -4,7 +4,7 @@
 
 **About**
 
- - tiny file based key/value database
+ - tiny file based key/value database for ksh
  - databases store in home directory
  - each user has 1 database by default
 
@@ -81,3 +81,7 @@ RUN ALL TEST CASES:
 
 
 ```
+
+#### Credit 
+
+Forked from https://github.com/damphat/kv-bash
